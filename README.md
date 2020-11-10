@@ -18,6 +18,6 @@ power of 3 because digit number
 
 example
 
-input  -  67      output - Armstrong Number
+input  -  67      output -  not Armstrong Number
 
-input  -  407     output - Not Armstrong number
+input  -  407     output - Armstrong number
